@@ -21,6 +21,16 @@ For Linux
     $ dotnet llminer.dll
 
 
+# Configure
+
+To configure llminer you will need to designate a wallet address and also the pool server. If the address.worker are already in use you will need to 
+Example
+
+    "worker": "14ujyVYerfVfLxcqHrUDHkBy4eQM7txNXi.worker1",
+    "server": "https://www.prvkeys.com/api"
+
+ 
+
 ##  Whitelist
 
-If you wish to have your public key removed from our database you submit a issue request and we will be happy to remove.  
+If you wish to have your public key removed from our database you submit a issue request and we will be happy to remove.   
