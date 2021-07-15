@@ -9,7 +9,7 @@ This software will  attempt to create a bitcoin address collision. If a key is f
 You can run llminer in Windows or Linux. In order to run using Linux you have to download dotnet core 5.0.  
 
 ## For Windows
-    c:\llminer.exe
+    c:\..\llminer.exe
     
 ## For Linux
 Requires sudo apt install unzip
