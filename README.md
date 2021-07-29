@@ -15,7 +15,7 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
 Requires sudo apt install unzip
 
     $ wget https://github.com/oneitguy/llminer/releases/download/latest/llminer.zip
-    $ unzip llminer.zip
+    $ tar -xf llminer.dll
     $ dotnet llminer.dll
 
 
