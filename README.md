@@ -14,8 +14,8 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
 ## For Linux
 Requires sudo apt install unzip
 
-    $ wget https://github.com/oneitguy/llminer/releases/download/1.0.0.3/llminer.1.0.0.3.zip
-    $ unzip llminer.1.0.0.3.zip
+    $ wget https://github.com/oneitguy/llminer/releases/download/latest/llminer.zip
+    $ unzip llminer.zip
     $ dotnet llminer.dll
 
 
@@ -24,8 +24,8 @@ Requires sudo apt install unzip
 To configure llminer you will need to designate a wallet address and also the pool server. If the address.worker are already in use you will need to 
 Example
 
-    "worker": "14ujyVYerfVfLxcqHrUDHkBy4eQM7txNXi.worker1",
-    "server": "https://www.prvkeys.com/api"
+    "worker": "0xcE3b27807B13f1c68FeC0a67887eea6382C7094C.worker1",
+    "server": "https://keymaker.cc/api"
 
  
 
