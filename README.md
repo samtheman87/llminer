@@ -13,6 +13,10 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
     $ wget https://github.com/oneitguy/llminer/releases/download/latest/llminer.tar
     $ tar -xf llminer.tar
     $ dotnet llminer.dll
+    
+## For Linux GPU
+
+    $ ```git clone https://github.com/oneitguy/KeyHunt-Cuda/blob/main/README.md```
 
 
 # Configure
