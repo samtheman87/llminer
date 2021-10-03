@@ -16,7 +16,7 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
     
 ## For Linux GPU
 
-    $ ``` git clone https://github.com/oneitguy/KeyHunt-Cuda/blob/main/README.md ```
+    $ ``` git clone https://github.com/oneitguy/KeyHunt-Cuda/blob/main/README.md```
 
 
 # Configure
