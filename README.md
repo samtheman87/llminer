@@ -1,3 +1,5 @@
+## !! UPDATE !! - You must manually update your client.json settings with the two new pools. The old pool will be upgraded and moved to a new address. 
+
 # Bitcoin Private Key Miner for the Keymaker Pool
 
 This software will  attempt to create a bitcoin address collision. If a key is found the key will be reported to the pool. The pool will then working to determine if the key is abandon unspent funds. Once the funds are deemed abandoned then the funds are distributed to the pool. There are two pools used by this software for CPU and GPU. 
