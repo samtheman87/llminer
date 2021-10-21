@@ -1,4 +1,3 @@
-## !! UPDATE !! - You must manually update your client.json settings with the two new pools. The old pool will be upgraded and moved to a new address. See example below. 
 
 # Bitcoin Private Key Miner for the Keymaker Pool
 
