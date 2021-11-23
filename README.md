@@ -28,7 +28,6 @@ Example
     "worker": "0xcE3b27807B13f1c6... 82C7094C.worker1",
     "uid": "E02E9B2A148...D",
     "CPU_only": "False",
-    "CPU_pool": "https://keymaker.cc/cpool",
     "GPU_pool": "https://keymaker.cc/gpool"
 
  
