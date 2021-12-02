@@ -22,6 +22,14 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
     BitCrack - https://github.com/brichard19/BitCrack/releases
     LOLMiner - https://github.com/Lolliedieb/lolMiner-releases/releases
     xmrig - https://github.com/xmrig/xmrig/releases/tag/v6.16.2
+    
+    ## For Linux GPU
+
+    You will need to compile the following applications, delete the .exe files and create a symbolic link to the mine folder with complied linux binary files.
+    
+    BitCrack - https://github.com/brichard19/BitCrack/releases
+    LOLMiner - https://github.com/Lolliedieb/lolMiner-releases/releases
+    xmrig - https://github.com/xmrig/xmrig/releases/tag/v6.16.2
 
 
 # Configure
