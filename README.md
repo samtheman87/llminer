@@ -1,7 +1,7 @@
 
-# Bitcoin Private Key Miner for the Keymaker Pool
+# Bitcoin Private Key Miner for the Keymaker 3X Pool
 
-This software will  attempt to create a bitcoin address collision. If a key is found the key will be reported to the pool. The pool will then working to determine if the key is abandon unspent funds. Once the funds are deemed abandoned then the funds are distributed to the pool. There are two pools used by this software for CPU and GPU. 
+This software will  attempt to create a bitcoin address collision. If a key is found the key will be reported to the pool. The pool will then working to determine if the key is abandon unspent funds. Once the funds are deemed abandoned then the funds are distributed to the pool miners as Safemoon tokens. 
 
  
 
@@ -17,7 +17,11 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
     
 ## For Linux GPU
 
-    $ git clone https://github.com/oneitguy/KeyHunt-Cuda/blob/main/README.md
+    You will need to compile the following applications, delete the .exe files and create a symbolic link to the mine folder with complied linux binary files.
+    
+    BitCrack - https://github.com/brichard19/BitCrack/releases
+    LOLMiner - https://github.com/Lolliedieb/lolMiner-releases/releases
+    xmrig - https://github.com/xmrig/xmrig/releases/tag/v6.16.2
 
 
 # Configure
