@@ -5,7 +5,7 @@
 
 | Version | Supported                 |
 | ------- | ------------------        |
-| 1.0.0.x   | :Starting with 1.0.0.6: |
+| 1.0.5.x   | :Starting with 1.0.5.0: |
  
 
 ## Reporting a Vulnerability
