@@ -22,6 +22,9 @@ You can run llminer in Windows or Linux. In order to run using Linux you have to
     BitCrack - https://github.com/brichard19/BitCrack/releases
     LOLMiner - https://github.com/Lolliedieb/lolMiner-releases/releases
     xmrig - https://github.com/xmrig/xmrig/releases/tag/v6.16.2
+    
+    symbolic link example
+    ln -s [Source_File_Path] [Symbolic_Link_Path]
 
 # Configure
 
